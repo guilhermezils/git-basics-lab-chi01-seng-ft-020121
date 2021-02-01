@@ -7,7 +7,7 @@
 - Initialize a new Git repository
 - Stage and commit new content
 - Create a remote repository on GitHub
-- Connect the newly create local repository with the remote on GitHub
+- Connect the newly create local repository with the remote on GitHubcd
 
 ## Introduction
 
